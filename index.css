@@ -806,6 +806,7 @@ span {
   }
 
   .plate {
+    z-index: -1;
     position: absolute;
     height: 90px;
     width: 300px;
